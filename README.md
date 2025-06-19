@@ -137,5 +137,6 @@ ln -sf /lib/i386-linux-gnu/libusb-0.1.so.4.4.4 /lib/i386-linux-gnu/libusb-0.1.so
 ```bash
 ldconfig
 ```
+___
 ### FIM
 
